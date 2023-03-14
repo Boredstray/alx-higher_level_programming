@@ -1,11 +1,11 @@
 # 0x13. JavaScript - Objects, Scopes and Closures
 
-ALX School Full Stack Software Engineering Project. Frond-end dev sprint (Javascript).
--Objects, Scopes and Closures in Javascript.
+ALX School Full Stack Software Engineering Project - Front-end dev Sprint
+This task focuses on Objects, Scopes and Closures in Javascript.
 
 ## Files:
 
-text files with the answers stored in them.
+Text files with task answers.
 
 | Filename | Description |
 | -------- | ----------- |
